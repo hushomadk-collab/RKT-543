@@ -1,46 +1,34 @@
 
-
-
-.title{
-    background-color: #311313;
-    color: white;
-width: 820px;
-text-align: center;
-margin: auto;
-padding-left: 18px;
-padding-right: 20px;
-padding-top: 14px;
-padding-bottom: 15px;
-font-size: 64px;
-
-}
-
-.ete{
-    background-color: #2A5D5A;
-
-}
-
-.ege{
-    border: 10px solid red;
-    width: 1500px;
-    height: 730px;
-    
-    margin-left: 620px;
-
-    background-color: black;
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
     text-align: center;
-    margin: auto;
-    padding: 40px 52px;
+    height: 70px;
 }
 
-.ete{
-    background-color: #1FE8B7 ;
-    font-size: 24px;
-    font-weight: 700px;
-    padding: 40px 54px;
-    width: 1406px;
-    height: 259px;
-    font-size: 35px;
-    margin: auto;
-    margin-top: 30px;
+#title{
+    width: 100%;
+    text-align: center;
+    background: aquamarine;
+    
+}
+.kulirang{
+    background-color: #888;
+}
+th,td{
+    border: 1px solid black;
+}
+
+.white{
+    background-color: white;
+
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color:blue;
 }
